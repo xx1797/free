@@ -35,7 +35,7 @@ class ExhibitionRequest extends FormRequest
             'image.image' => '商品画像は画像ファイルを選択してください',
             'image.mimes' => '商品画像は.jpegまたは.png形式で選択してください',
             'image.max' => '商品画像のサイズは2MB以下にしてください',
-            'categories.required' => '商品のカ���ゴリーを選択してください',
+            'categories.required' => '商品のカゴリーを選択してください',
             'categories.min' => '商品のカテゴリーを少なくとも1つ選択してください',
             'condition_id.required' => '商品の状態を選択してください',
             'price.required' => '商品価格を入力してください',
